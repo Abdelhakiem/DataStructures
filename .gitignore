@@ -2,4 +2,4 @@
 *.vcxproj 
 *.filters 
 *.user 
-*.user 
+Debug/ 
